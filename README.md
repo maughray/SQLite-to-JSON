@@ -1,5 +1,5 @@
 # SQLite-to-JSON
 Convert sqlite database to json objects
 
-Usage example: 
+Usage: \n
 python convert.py [Database-name]
